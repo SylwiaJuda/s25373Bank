@@ -1,6 +1,0 @@
-package s25373Bank.example.s25373Bank;
-
-    public enum TransferStatus {
-        ACCEPTED,
-        DECLINED
-    }
